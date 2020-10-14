@@ -1,4 +1,4 @@
-## I've taken Finite Mathematics, Statistics, and Java Programming College level courses
+## I've taken Statistics, Finite Mathematics, and Java Programming
 
 ## What I hope to gain from Computer Science:
 * how to formulate a plan before trying to solve a problem
