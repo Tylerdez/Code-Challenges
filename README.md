@@ -17,7 +17,7 @@ Constant Time Complexity O(1) Example: Input has no time affect on run time. Siz
 ```
 var arr = [ 1,2,3,4,5];
 function findIndex() {
-                arr[2]; // => 3, prints output 1 time
+    arr[2]; // => 3, prints output 1 time
 }
 ```
 
@@ -29,8 +29,8 @@ var arr1 = [orange, apple, banana, lemon]; //=> 4 steps
 
 ```
 function findLength(arr1) {
-                for (var i = 0; i < array.length; i++) { 
-                                console.log(array[i]);} //=> prints output 4 times
+    for (var i = 0; i < array.length; i++) { 
+        console.log(array[i]);} //=> prints output 4 times
 }
 ```
 
@@ -43,8 +43,7 @@ Here input is raised to an exponent
 Say you have O(n^2) - input raised two the 2nd power. Imagine you have to find a page in a book, you have to first find the book you're looking for and then find the specific page in the book
 
 ```
-function containsDuplicates(elements)
-{
+function containsDuplicates(elements){
     for (var x = 0; x < elements.Count; x++){
         for (var i = 0; i < elements.Count; i++)
         {
