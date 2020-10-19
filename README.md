@@ -6,6 +6,8 @@
 * how to solve problems efficiently
 * recognizing patterns in data and when to use it to your advantage
 
+## Big O
+
 Big O notation is a mathematical notation that describes the limiting behavior of a function
 
 Big O is a family of notations
